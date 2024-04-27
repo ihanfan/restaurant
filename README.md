@@ -8,7 +8,13 @@ This web application built with Node.js + Express. Users can view all restaurant
 
 ## Web Screenshot
 
-![image](C:\Users\User\restaurant\public\img)
+![image](https://github.com/ihanfan/restaurant/blob/main/public/main.png)
+
+![image](https://github.com/ihanfan/restaurant/blob/main/public/search%20keyword.png)
+
+![image](https://github.com/ihanfan/restaurant/blob/main/public/search%20result.png)
+
+![image](https://github.com/ihanfan/restaurant/blob/main/public/detail%20information.png)
 
 
 ## Environment requirements
@@ -20,7 +26,7 @@ This web application built with Node.js + Express. Users can view all restaurant
 1. Clone the repository
 
 ```
-
+https://github.com/ihanfan/restaurant.git
 ```
 
 2. Move to the food_cat_web directory
